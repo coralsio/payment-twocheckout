@@ -6,7 +6,7 @@
   "description": "Payment Gateway, charges, subscriptions, invoices...",
   "namespace": "Corals\\Modules\\Payment\\TwoCheckout",
   "version": "2.0",
-  "folder": "payment-stripe",
+  "folder": "payment-twocheckout",
   "autoload": "psr-4",
   "icon": "fa fa-credit-card",
   "require": {

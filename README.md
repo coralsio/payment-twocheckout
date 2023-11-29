@@ -61,6 +61,11 @@ composer require corals/payment-twocheckout
 Looking for a professional team to build your success and start driving your business forward.
 Laraship team ready to start with you [Hire Us](https://www.laraship.com/contact)
 
+
+## Online Documentation 
+follow the [Online Docs](https://www.laraship.com/docs/laraship/payment-modules/2checkout-configuration/) to see more about this module 
+
+
 ## Testing
 
 ```bash

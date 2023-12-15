@@ -1,4 +1,6 @@
 # Corals Payment Twocheckout
+* Laravel 2Checkout subscriptions Plugin for the Laraship platform is an amazing option for handling recurring billing for 2Checkout. integrate 2Checkout seamlessly with Laraship Subscription Platform, You can enable it along with other subscription gateways like stripe which is already built in with Laraship Subscriptions platform or configure it as a standalone payment gateway.
+* 2Checkout powerful API gives users the huge flexibility to create a payment for 2Checkout Subscriptions scenarios that fit their business needs the most. Streamline the payment process and provide your customers with the superior user experience. charge one card multiple times, without asking a customer for the details.
 
 ### – Setup Seller ID, Publishable Key, and Private Key
 
